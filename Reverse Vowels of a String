@@ -1,0 +1,13 @@
+class Solution(object):
+    def reverseVowels(self, s):
+        vowel=[]
+        for char in s:
+            if char.lower() in "aeiou":
+                vowel.append(char)
+        result=""
+        for char in s:
+            if char.lower() in "aeiou":
+                result+=vowel.pop()
+            else:
+                result+=char
+        return result
