@@ -1,0 +1,7 @@
+class Solution(object):
+    def isSubsequence(self, s, t):
+        for character in s:
+            if character not in t:
+                return False
+            t=t[t.index(character)+1:]
+        return True
