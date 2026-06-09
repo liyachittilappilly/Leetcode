@@ -1,0 +1,10 @@
+def removeStars(s):
+    answer = ""
+
+    for character in s:
+        if character == "*":
+            answer = answer[:-1]
+        else:
+            answer += character
+
+    return answer
