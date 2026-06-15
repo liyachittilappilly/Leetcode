@@ -1,0 +1,14 @@
+def moveZeroes(nums):
+    result = []
+    count = 0
+
+    for x in nums:
+        if x == 0:
+            count += 1
+        else:
+            result.append(x)
+
+    for i in range(count):
+        result.append(0)
+
+    nums[:] = result
