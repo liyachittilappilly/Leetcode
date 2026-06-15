@@ -1,0 +1,11 @@
+def kidsWithCandies(candies, extraCandies):
+    answer = []
+    biggest = max(candies)
+
+    for candy in candies:
+        if candy + extraCandies >= biggest:
+            answer.append(True)
+        else:
+            answer.append(False)
+
+    return answer
