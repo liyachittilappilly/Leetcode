@@ -1,0 +1,7 @@
+def canVisitAllRooms(rooms):
+  visited = [0]
+  for r in visited:
+    for key in rooms[r]:
+      if key not in visited:
+        visited.append(key)
+  return len(visited) == len(rooms)
