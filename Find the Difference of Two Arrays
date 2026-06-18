@@ -1,0 +1,10 @@
+def findDifference(nums1, nums2):
+  a = []
+  b = []
+  for n in nums1:
+    if n not in nums2 and n not in a:
+      a.append(n)
+  for n in nums2:
+    if n not in nums1 and n not in b:
+      b.append(n)
+  return [a, b]
