@@ -1,0 +1,6 @@
+calls = []
+def ping(t):
+    calls.append(t)
+    while calls[0] < t - 3000:
+        calls.pop(0)
+    return len(calls)
