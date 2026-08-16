@@ -1,0 +1,14 @@
+def isPowerOfTwo(n):
+    if n <= 0:
+        return False
+
+    m = n.bit_length()
+
+    for i in range(m):
+        if 2 ** i == n:
+            return True
+
+    return False
+
+n = int(input())
+print(isPowerOfTwo(n))
