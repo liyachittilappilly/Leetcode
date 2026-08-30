@@ -1,0 +1,20 @@
+nums = list(map(int, input().split()))
+target = int(input())
+
+left = 0
+right = len(nums) - 1
+
+while left <= right:
+    middle = (left + right) // 2
+
+    if nums[middle] == target:
+        print(middle)
+        break
+
+    elif nums[middle] < target:
+        left = middle + 1
+
+    else:
+        right = middle - 1
+else:
+    print(-1)
