@@ -1,0 +1,14 @@
+class Solution:
+    def minimumPushes(self, word: str) -> int:
+        a=0
+        if len(word)<=8:
+            return len(word)
+        elif len(word)<=16:
+            a=len(word)-8
+            return 8+a*2
+        elif len(word)<=24:
+            a=len(word)-16
+            return 8+16+a*3
+        else:
+            a=len(word)-24
+            return 8+16+24+a*4
