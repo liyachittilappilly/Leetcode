@@ -1,0 +1,9 @@
+class Solution:
+    def checkDivisibility(self, n: int) -> bool:
+        a=list(str(n))
+        sum=0
+        product=1
+        for i in range(len(a)):
+            sum+=int(a[i])
+            product*=int(a[i])
+        return n%(sum+product)==0
