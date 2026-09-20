@@ -1,0 +1,10 @@
+class Solution:
+    def canAliceWin(self, nums: List[int]) -> bool:
+        count=0
+        cc=0
+        for i in range(len(nums)):
+            if nums[i]<=9:
+                count+=nums[i]
+            else:
+                cc+=nums[i]
+        return count!=cc
