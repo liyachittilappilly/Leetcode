@@ -1,0 +1,9 @@
+class Solution:
+    def countDigits(self, num: int) -> int:
+        a=str(num)
+        s=0
+    
+        for i in range(len(a)):
+            if num%int(a[i])==0:
+                s+=1
+        return s
