@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/liyachittilappilly/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/liyachittilappilly/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/liyachittilappilly/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Two Pointers
@@ -30,4 +31,8 @@
 | ------- |
 | [1688-count-of-matches-in-tournament](https://github.com/liyachittilappilly/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/liyachittilappilly/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/liyachittilappilly/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
