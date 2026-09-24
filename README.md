@@ -14,6 +14,7 @@
 |  |
 | ------- |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/liyachittilappilly/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2396-strictly-palindromic-number](https://github.com/liyachittilappilly/Leetcode/tree/master/2396-strictly-palindromic-number) |
 ## String
 |  |
 | ------- |
@@ -26,6 +27,7 @@
 | ------- |
 | [1688-count-of-matches-in-tournament](https://github.com/liyachittilappilly/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/liyachittilappilly/Leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2396-strictly-palindromic-number](https://github.com/liyachittilappilly/Leetcode/tree/master/2396-strictly-palindromic-number) |
 | [2413-smallest-even-multiple](https://github.com/liyachittilappilly/Leetcode/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/liyachittilappilly/Leetcode/tree/master/2469-convert-the-temperature) |
 ## Number Theory
@@ -53,4 +55,8 @@
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/liyachittilappilly/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/liyachittilappilly/Leetcode/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
