@@ -12,6 +12,7 @@
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/liyachittilappilly/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/liyachittilappilly/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/liyachittilappilly/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3668-restore-finishing-order](https://github.com/liyachittilappilly/Leetcode/tree/master/3668-restore-finishing-order) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/liyachittilappilly/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Two Pointers
 |  |
@@ -92,5 +93,6 @@
 ## Hash Table
 |  |
 | ------- |
+| [3668-restore-finishing-order](https://github.com/liyachittilappilly/Leetcode/tree/master/3668-restore-finishing-order) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/liyachittilappilly/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 <!---LeetCode Topics End-->
