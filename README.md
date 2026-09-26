@@ -11,6 +11,7 @@
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/liyachittilappilly/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/liyachittilappilly/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/liyachittilappilly/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/liyachittilappilly/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Two Pointers
 |  |
 | ------- |
@@ -75,4 +76,12 @@
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/liyachittilappilly/Leetcode/tree/master/1025-divisor-game) |
+## Graph Theory
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/liyachittilappilly/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
+## Matrix
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/liyachittilappilly/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->
