@@ -10,6 +10,7 @@
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/liyachittilappilly/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/liyachittilappilly/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/liyachittilappilly/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/liyachittilappilly/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -31,6 +32,7 @@
 | [2396-strictly-palindromic-number](https://github.com/liyachittilappilly/Leetcode/tree/master/2396-strictly-palindromic-number) |
 | [2413-smallest-even-multiple](https://github.com/liyachittilappilly/Leetcode/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/liyachittilappilly/Leetcode/tree/master/2469-convert-the-temperature) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/liyachittilappilly/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Number Theory
 |  |
 | ------- |
