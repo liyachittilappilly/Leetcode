@@ -13,6 +13,7 @@
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/liyachittilappilly/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/liyachittilappilly/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/liyachittilappilly/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3467-transform-array-by-parity](https://github.com/liyachittilappilly/Leetcode/tree/master/3467-transform-array-by-parity) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/liyachittilappilly/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/liyachittilappilly/Leetcode/tree/master/3668-restore-finishing-order) |
 | [3701-compute-alternating-sum](https://github.com/liyachittilappilly/Leetcode/tree/master/3701-compute-alternating-sum) |
@@ -69,6 +70,7 @@
 |  |
 | ------- |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/liyachittilappilly/Leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [3467-transform-array-by-parity](https://github.com/liyachittilappilly/Leetcode/tree/master/3467-transform-array-by-parity) |
 ## Binary Search
 |  |
 | ------- |
@@ -104,4 +106,8 @@
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/liyachittilappilly/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3668-restore-finishing-order](https://github.com/liyachittilappilly/Leetcode/tree/master/3668-restore-finishing-order) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/liyachittilappilly/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
+## Counting
+|  |
+| ------- |
+| [3467-transform-array-by-parity](https://github.com/liyachittilappilly/Leetcode/tree/master/3467-transform-array-by-parity) |
 <!---LeetCode Topics End-->
