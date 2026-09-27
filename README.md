@@ -33,6 +33,7 @@
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/liyachittilappilly/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/liyachittilappilly/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3110-score-of-a-string](https://github.com/liyachittilappilly/Leetcode/tree/master/3110-score-of-a-string) |
+| [3280-convert-date-to-binary](https://github.com/liyachittilappilly/Leetcode/tree/master/3280-convert-date-to-binary) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/liyachittilappilly/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/liyachittilappilly/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Math
@@ -45,6 +46,7 @@
 | [2413-smallest-even-multiple](https://github.com/liyachittilappilly/Leetcode/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/liyachittilappilly/Leetcode/tree/master/2469-convert-the-temperature) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/liyachittilappilly/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3280-convert-date-to-binary](https://github.com/liyachittilappilly/Leetcode/tree/master/3280-convert-date-to-binary) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/liyachittilappilly/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/liyachittilappilly/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/liyachittilappilly/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
