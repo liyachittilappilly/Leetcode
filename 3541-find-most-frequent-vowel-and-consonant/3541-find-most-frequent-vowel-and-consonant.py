@@ -31,6 +31,4 @@ class Solution:
             frequencyC.append(count)
         maxV = max(frequencyV, default=0)
         maxC = max(frequencyC, default=0)
-
-        # Step 6: Return answer
         return maxV + maxC
