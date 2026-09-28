@@ -45,6 +45,7 @@
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/liyachittilappilly/Leetcode/tree/master/0070-climbing-stairs) |
 | [1025-divisor-game](https://github.com/liyachittilappilly/Leetcode/tree/master/1025-divisor-game) |
 | [1688-count-of-matches-in-tournament](https://github.com/liyachittilappilly/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/liyachittilappilly/Leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
@@ -95,6 +96,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/liyachittilappilly/Leetcode/tree/master/0070-climbing-stairs) |
 | [1025-divisor-game](https://github.com/liyachittilappilly/Leetcode/tree/master/1025-divisor-game) |
 ## Game Theory
 |  |
@@ -140,4 +142,8 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/liyachittilappilly/Leetcode/tree/master/0141-linked-list-cycle) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/liyachittilappilly/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
