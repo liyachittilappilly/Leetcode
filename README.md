@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/liyachittilappilly/Leetcode/tree/master/0001-two-sum) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/liyachittilappilly/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/liyachittilappilly/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1528-shuffle-string](https://github.com/liyachittilappilly/Leetcode/tree/master/1528-shuffle-string) |
@@ -113,6 +114,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/liyachittilappilly/Leetcode/tree/master/0001-two-sum) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/liyachittilappilly/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/liyachittilappilly/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/liyachittilappilly/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
