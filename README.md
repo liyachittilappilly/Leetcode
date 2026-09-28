@@ -32,6 +32,7 @@
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/liyachittilappilly/Leetcode/tree/master/0067-add-binary) |
 | [1528-shuffle-string](https://github.com/liyachittilappilly/Leetcode/tree/master/1528-shuffle-string) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/liyachittilappilly/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/liyachittilappilly/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -45,6 +46,7 @@
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/liyachittilappilly/Leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/liyachittilappilly/Leetcode/tree/master/0070-climbing-stairs) |
 | [1025-divisor-game](https://github.com/liyachittilappilly/Leetcode/tree/master/1025-divisor-game) |
 | [1688-count-of-matches-in-tournament](https://github.com/liyachittilappilly/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
@@ -66,6 +68,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/liyachittilappilly/Leetcode/tree/master/0067-add-binary) |
 | [1688-count-of-matches-in-tournament](https://github.com/liyachittilappilly/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [1920-build-array-from-permutation](https://github.com/liyachittilappilly/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/liyachittilappilly/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -133,6 +136,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/liyachittilappilly/Leetcode/tree/master/0067-add-binary) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/liyachittilappilly/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Linked List
 |  |
