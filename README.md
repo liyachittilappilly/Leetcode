@@ -47,6 +47,7 @@
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/liyachittilappilly/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/liyachittilappilly/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/liyachittilappilly/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2129-capitalize-the-title](https://github.com/liyachittilappilly/Leetcode/tree/master/2129-capitalize-the-title) |
 | [3110-score-of-a-string](https://github.com/liyachittilappilly/Leetcode/tree/master/3110-score-of-a-string) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/liyachittilappilly/Leetcode/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3280-convert-date-to-binary](https://github.com/liyachittilappilly/Leetcode/tree/master/3280-convert-date-to-binary) |
