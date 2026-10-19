@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/liyachittilappilly/Leetcode/tree/master/0001-two-sum) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/liyachittilappilly/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/liyachittilappilly/Leetcode/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1480-running-sum-of-1d-array](https://github.com/liyachittilappilly/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1528-shuffle-string](https://github.com/liyachittilappilly/Leetcode/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/liyachittilappilly/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
