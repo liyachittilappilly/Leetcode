@@ -20,6 +20,7 @@
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/liyachittilappilly/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/liyachittilappilly/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/liyachittilappilly/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2574-left-and-right-sum-differences](https://github.com/liyachittilappilly/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/liyachittilappilly/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/liyachittilappilly/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/liyachittilappilly/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -93,6 +94,7 @@
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/liyachittilappilly/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [2574-left-and-right-sum-differences](https://github.com/liyachittilappilly/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 ## Greedy
 |  |
 | ------- |
