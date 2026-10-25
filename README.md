@@ -43,6 +43,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/liyachittilappilly/Leetcode/tree/master/0067-add-binary) |
+| [0387-first-unique-character-in-a-string](https://github.com/liyachittilappilly/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1528-shuffle-string](https://github.com/liyachittilappilly/Leetcode/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/liyachittilappilly/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/liyachittilappilly/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -143,6 +144,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/liyachittilappilly/Leetcode/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/liyachittilappilly/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0387-first-unique-character-in-a-string](https://github.com/liyachittilappilly/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/liyachittilappilly/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/liyachittilappilly/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/liyachittilappilly/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -152,6 +154,7 @@
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/liyachittilappilly/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/liyachittilappilly/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3467-transform-array-by-parity](https://github.com/liyachittilappilly/Leetcode/tree/master/3467-transform-array-by-parity) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/liyachittilappilly/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -172,4 +175,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/liyachittilappilly/Leetcode/tree/master/0070-climbing-stairs) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/liyachittilappilly/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
