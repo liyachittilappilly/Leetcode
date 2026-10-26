@@ -9,6 +9,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/liyachittilappilly/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/liyachittilappilly/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/liyachittilappilly/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0905-sort-array-by-parity](https://github.com/liyachittilappilly/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/liyachittilappilly/Leetcode/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1480-running-sum-of-1d-array](https://github.com/liyachittilappilly/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1528-shuffle-string](https://github.com/liyachittilappilly/Leetcode/tree/master/1528-shuffle-string) |
@@ -35,6 +36,7 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/liyachittilappilly/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0905-sort-array-by-parity](https://github.com/liyachittilappilly/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/liyachittilappilly/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/liyachittilappilly/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2396-strictly-palindromic-number](https://github.com/liyachittilappilly/Leetcode/tree/master/2396-strictly-palindromic-number) |
@@ -103,6 +105,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0905-sort-array-by-parity](https://github.com/liyachittilappilly/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/liyachittilappilly/Leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [3467-transform-array-by-parity](https://github.com/liyachittilappilly/Leetcode/tree/master/3467-transform-array-by-parity) |
 | [3731-find-missing-elements](https://github.com/liyachittilappilly/Leetcode/tree/master/3731-find-missing-elements) |
