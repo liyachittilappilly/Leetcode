@@ -70,6 +70,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/liyachittilappilly/Leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/liyachittilappilly/Leetcode/tree/master/0070-climbing-stairs) |
+| [0326-power-of-three](https://github.com/liyachittilappilly/Leetcode/tree/master/0326-power-of-three) |
 | [1025-divisor-game](https://github.com/liyachittilappilly/Leetcode/tree/master/1025-divisor-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/liyachittilappilly/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1688-count-of-matches-in-tournament](https://github.com/liyachittilappilly/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
@@ -192,4 +193,8 @@
 |  |
 | ------- |
 | [2185-counting-words-with-a-given-prefix](https://github.com/liyachittilappilly/Leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/liyachittilappilly/Leetcode/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
