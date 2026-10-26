@@ -48,6 +48,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/liyachittilappilly/Leetcode/tree/master/0067-add-binary) |
 | [0387-first-unique-character-in-a-string](https://github.com/liyachittilappilly/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0551-student-attendance-record-i](https://github.com/liyachittilappilly/Leetcode/tree/master/0551-student-attendance-record-i) |
 | [1528-shuffle-string](https://github.com/liyachittilappilly/Leetcode/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/liyachittilappilly/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/liyachittilappilly/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
