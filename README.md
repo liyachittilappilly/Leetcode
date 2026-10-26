@@ -72,6 +72,7 @@
 | [0070-climbing-stairs](https://github.com/liyachittilappilly/Leetcode/tree/master/0070-climbing-stairs) |
 | [0326-power-of-three](https://github.com/liyachittilappilly/Leetcode/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/liyachittilappilly/Leetcode/tree/master/0367-valid-perfect-square) |
+| [0507-perfect-number](https://github.com/liyachittilappilly/Leetcode/tree/master/0507-perfect-number) |
 | [1025-divisor-game](https://github.com/liyachittilappilly/Leetcode/tree/master/1025-divisor-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/liyachittilappilly/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1688-count-of-matches-in-tournament](https://github.com/liyachittilappilly/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
