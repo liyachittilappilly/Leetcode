@@ -10,6 +10,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/liyachittilappilly/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/liyachittilappilly/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0905-sort-array-by-parity](https://github.com/liyachittilappilly/Leetcode/tree/master/0905-sort-array-by-parity) |
+| [1051-height-checker](https://github.com/liyachittilappilly/Leetcode/tree/master/1051-height-checker) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/liyachittilappilly/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/liyachittilappilly/Leetcode/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1480-running-sum-of-1d-array](https://github.com/liyachittilappilly/Leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -118,6 +119,7 @@
 |  |
 | ------- |
 | [0905-sort-array-by-parity](https://github.com/liyachittilappilly/Leetcode/tree/master/0905-sort-array-by-parity) |
+| [1051-height-checker](https://github.com/liyachittilappilly/Leetcode/tree/master/1051-height-checker) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/liyachittilappilly/Leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [3467-transform-array-by-parity](https://github.com/liyachittilappilly/Leetcode/tree/master/3467-transform-array-by-parity) |
 | [3731-find-missing-elements](https://github.com/liyachittilappilly/Leetcode/tree/master/3731-find-missing-elements) |
@@ -204,4 +206,12 @@
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/liyachittilappilly/Leetcode/tree/master/0326-power-of-three) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/liyachittilappilly/Leetcode/tree/master/1051-height-checker) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/liyachittilappilly/Leetcode/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
