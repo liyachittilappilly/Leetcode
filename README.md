@@ -24,6 +24,7 @@
 | [2149-rearrange-array-elements-by-sign](https://github.com/liyachittilappilly/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/liyachittilappilly/Leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2574-left-and-right-sum-differences](https://github.com/liyachittilappilly/Leetcode/tree/master/2574-left-and-right-sum-differences) |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/liyachittilappilly/Leetcode/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/liyachittilappilly/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/liyachittilappilly/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/liyachittilappilly/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -176,6 +177,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/liyachittilappilly/Leetcode/tree/master/0067-add-binary) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/liyachittilappilly/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/liyachittilappilly/Leetcode/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 ## Linked List
 |  |
 | ------- |
