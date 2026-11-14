@@ -76,6 +76,7 @@
 | [0507-perfect-number](https://github.com/liyachittilappilly/Leetcode/tree/master/0507-perfect-number) |
 | [1025-divisor-game](https://github.com/liyachittilappilly/Leetcode/tree/master/1025-divisor-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/liyachittilappilly/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1323-maximum-69-number](https://github.com/liyachittilappilly/Leetcode/tree/master/1323-maximum-69-number) |
 | [1688-count-of-matches-in-tournament](https://github.com/liyachittilappilly/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/liyachittilappilly/Leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2396-strictly-palindromic-number](https://github.com/liyachittilappilly/Leetcode/tree/master/2396-strictly-palindromic-number) |
@@ -111,6 +112,7 @@
 ## Greedy
 |  |
 | ------- |
+| [1323-maximum-69-number](https://github.com/liyachittilappilly/Leetcode/tree/master/1323-maximum-69-number) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/liyachittilappilly/Leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Sorting
 |  |
